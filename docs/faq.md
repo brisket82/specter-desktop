@@ -241,7 +241,7 @@ Any HWW with HWI, including USB HWW's (ColdCard, Trezor, Ledger, KeepKey, BitBox
 
 Absolutely, as well as any other DIY bitcoin full, or pruned, node!
 
-Currently Raspiblitz (https://github.com/rootzoll/raspiblitz), has explicit support and you can automatically install it as bonus-software. Also [umbrel](https://getumbrel.com/) has it in the app-store. Mynode has it on Mynode [premium](https://mynodebtc.com/products/premium). There are differences mainly on update-policy and update-freuency.
+Currently Raspiblitz (https://github.com/rootzoll/raspiblitz), has explicit support and you can automatically install it as bonus-software. Also [umbrel](https://getumbrel.com/) has it in the app-store. Mynode has it on Mynode [premium](https://mynodebtc.com/products/premium). There are differences mainly on update-policy and update-frequency.
 
 ## *Can I use Tor?*
 
